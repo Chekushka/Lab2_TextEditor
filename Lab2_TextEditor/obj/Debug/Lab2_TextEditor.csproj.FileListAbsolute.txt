@@ -1,0 +1,10 @@
+C:\Study\5 курс\1 семестр\С#\Lab2_TextEditor\Lab2_TextEditor\bin\Debug\Lab2_TextEditor.exe.config
+C:\Study\5 курс\1 семестр\С#\Lab2_TextEditor\Lab2_TextEditor\bin\Debug\Lab2_TextEditor.exe
+C:\Study\5 курс\1 семестр\С#\Lab2_TextEditor\Lab2_TextEditor\bin\Debug\Lab2_TextEditor.pdb
+C:\Study\5 курс\1 семестр\С#\Lab2_TextEditor\Lab2_TextEditor\obj\Debug\Lab2_TextEditor.csprojAssemblyReference.cache
+C:\Study\5 курс\1 семестр\С#\Lab2_TextEditor\Lab2_TextEditor\obj\Debug\Lab2_TextEditor.Properties.Resources.resources
+C:\Study\5 курс\1 семестр\С#\Lab2_TextEditor\Lab2_TextEditor\obj\Debug\Lab2_TextEditor.csproj.GenerateResource.cache
+C:\Study\5 курс\1 семестр\С#\Lab2_TextEditor\Lab2_TextEditor\obj\Debug\Lab2_TextEditor.csproj.CoreCompileInputs.cache
+C:\Study\5 курс\1 семестр\С#\Lab2_TextEditor\Lab2_TextEditor\obj\Debug\Lab2_TextEditor.exe
+C:\Study\5 курс\1 семестр\С#\Lab2_TextEditor\Lab2_TextEditor\obj\Debug\Lab2_TextEditor.pdb
+C:\Study\5 курс\1 семестр\С#\Lab2_TextEditor\Lab2_TextEditor\obj\Debug\Lab2_TextEditor.Editor.resources
